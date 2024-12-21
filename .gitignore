@@ -1,0 +1,11 @@
+venv/
+rag.egg-info/
+__pycache__/
+logs/
+output/
+pipeline/__pycache__/
+
+data/human-nutrition-text.pdf
+data/hitech.pdf
+
+
